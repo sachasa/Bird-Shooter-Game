@@ -1,0 +1,40 @@
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\bin\Debug\Bird Shooter.exe.config
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\bin\Debug\Bird Shooter.exe
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\bin\Debug\Bird Shooter.pdb
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\obj\Debug\Bird Shooter.csprojAssemblyReference.cache
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\obj\Debug\Bird_Shooter.MainFrame.resources
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\obj\Debug\Bird_Shooter.Properties.Resources.resources
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\obj\Debug\Bird Shooter.csproj.GenerateResource.cache
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\obj\Debug\Bird Shooter.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\obj\Debug\Bird Shooter.exe
+D:\work\asp.net C#\Csharp-projects-main\Bird Shooter\obj\Debug\Bird Shooter.pdb
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\bin\Debug\Bird Shooter.exe.config
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\bin\Debug\Bird Shooter.exe
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\bin\Debug\Bird Shooter.pdb
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.csproj.AssemblyReference.cache
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird_Shooter.MainFrame.resources
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird_Shooter.Properties.Resources.resources
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.csproj.GenerateResource.cache
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.csproj.CoreCompileInputs.cache
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.exe
+C:\Users\VCT\Downloads\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.pdb
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\bin\Debug\Bird Shooter.exe.config
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\bin\Debug\Bird Shooter.exe
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\bin\Debug\Bird Shooter.pdb
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.csproj.AssemblyReference.cache
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird_Shooter.MainFrame.resources
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird_Shooter.Properties.Resources.resources
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.csproj.GenerateResource.cache
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.csproj.CoreCompileInputs.cache
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.exe
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter_In_C_With_Source_Code\Bird Shooter\obj\Debug\Bird Shooter.pdb
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\bin\Debug\Bird Shooter.exe.config
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\bin\Debug\Bird Shooter.exe
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\bin\Debug\Bird Shooter.pdb
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\obj\Debug\Bird Shooter.csproj.AssemblyReference.cache
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\obj\Debug\Bird_Shooter.MainFrame.resources
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\obj\Debug\Bird_Shooter.Properties.Resources.resources
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\obj\Debug\Bird Shooter.csproj.GenerateResource.cache
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\obj\Debug\Bird Shooter.csproj.CoreCompileInputs.cache
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\obj\Debug\Bird Shooter.exe
+C:\Users\VCT\OneDrive\Documents\Windows Forms\My Projects\Bird_Shooter\Bird Shooter\obj\Debug\Bird Shooter.pdb
